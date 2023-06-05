@@ -5,7 +5,7 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/jagdish91/LABURL)
   - [File Integrity Monitoring](https://github.com/jagdish91/LABURL)
-  - [Disk Sanitization](https://github.com/jagdish91/LABURL)
+  - [Disk Sanitization](https://github.com/Jagdish91/DiskSanitization/tree/main)
 
 <h2> Certifications</h2>
 - <b>Information Security - Practitioner's Perspective (TCS ION)(AlgoExpert)</b>
