@@ -4,8 +4,10 @@
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Home Lab](https://github.com/jagdish91/LABURL)
+  - [Exploring Phases of Cyber Kill Chain](https://github.com/Jagdish91/DiskSanitization/tree/main)
   - [File Integrity Monitoring](https://github.com/jagdish91/LABURL)
   - [Disk Sanitization](https://github.com/Jagdish91/DiskSanitization/tree/main)
+  - [Denial of Service Attack](https://github.com/Jagdish91/DiskSanitization/tree/main)
 
 <h2> Certifications</h2>
 - <b>Information Security - Practitioner's Perspective (TCS ION)(AlgoExpert)</b>
