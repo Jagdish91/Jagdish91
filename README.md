@@ -11,6 +11,7 @@
 
 <h2> Certifications</h2>
 - <b>Information Security - Practitioner's Perspective (TCS ION)(AlgoExpert)</b>
+- <b>Advance Cyber Security- An Application Approach (TCS ION)(AlgoExpert)</b>
 - SOC 1 TryHackMe(AlgoExpert)</b>
 
 
