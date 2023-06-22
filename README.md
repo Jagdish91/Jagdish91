@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Home Lab](https://github.com/jagdish91/LABURL)
+  - [Active Directory Home Lab](https://github.com/Jagdish91/Active-Directory-Home-Lab)
   - [Exploring Phases of Cyber Kill Chain](https://github.com/Jagdish91/DiskSanitization/tree/main)
   - [File Integrity Monitoring](https://github.com/jagdish91/LABURL)
   - [Disk Sanitization](https://github.com/Jagdish91/DiskSanitization/tree/main)
